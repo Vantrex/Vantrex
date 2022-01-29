@@ -3,7 +3,7 @@
 ### I am a self taught java programmer.
 
 ---
-### 🤓 Software I can use:
+### 🤓 Software I am familiar with:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="55"/> 
 <img src="https://banner2.cleanpng.com/20180803/bkf/kisspng-logo-mysql-database-phpmyadmin-mysql-digital-agency-maidenhead-web-agency-uk-5b6475c3513438.3209368415333104033326.jpg" alt="mysql" width="55" height="60"/> 
