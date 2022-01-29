@@ -2,6 +2,7 @@
 
 ### I am a self taught java programmer.
 
+---
 ### 🤓 Software I can use:
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="55"/> 
