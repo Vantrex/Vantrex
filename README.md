@@ -30,4 +30,4 @@
 - ⚔ MineChaos - A Minecraft PvP Server (https://MineChaos.eu)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vantrex&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vantrex&layout=compact&theme=dark)](https://github.com/Vantrex)
