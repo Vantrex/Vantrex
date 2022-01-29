@@ -15,7 +15,7 @@
 ---
 ### 📫 Contact me:
 - 🐦 Twitter: https://twitter.com/VantrexTR
-- ✈  Telegram: https://t.me/@Vantrex
+- ✈  Telegram: https://t.me/Vantrex
 - 📧 Discord: Vantrex#0001
 
 ---
