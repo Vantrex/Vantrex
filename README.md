@@ -15,7 +15,7 @@
 ---
 ### 📫 Contact me:
 - ✈  Telegram: https://t.me/Vantrex
-- 📧 Discord: Vantrex#0001
+- 📧 Discord: vantrex
 
 ---
 ### 🐱My Github stats:
