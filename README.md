@@ -1,7 +1,5 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Marinus.
 
-### I am a self taught java programmer.
-
 ---
 ### 🤓 Software I am familiar with:
 <p align="center">
@@ -23,7 +21,7 @@
 
 ### 📚 Recent Projects:
 - 🔭 DrapuriaFramework - A framework for spigot development (https://github.com/Vantrex/DrapuriaFramework)
-- ⚡HardcoreSpigot - A 1.8.8 TacoSpigot fork optimized for stacked PotionPvP (Running on the servers listed below)
+- ⚡ HardcoreSpigot - A 1.8.8 TacoSpigot fork optimized for stacked PotionPvP (Running on the servers listed below)
 - ⚔ AspireMC - A Minecraft PvP Network (AspireMC.de)
 - ⚔ MuxCraft - A Minecraft PvP Server (https://MuxCraft.eu)
 - ⚔ MineChaos - A Minecraft PvP Server (https://MineChaos.eu)
